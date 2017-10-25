@@ -9,3 +9,9 @@ praise()
 \description{
 Praise me at critical times in my life
 }
+\examples{
+
+# I'm going to delivery some praise!
+praise()
+
+}
